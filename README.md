@@ -3,8 +3,8 @@
 ## Objectives
 *By the end of this lesson, developers will be able to:*
 
-- Understand the various definitions of "legacy code" in the developer world
-- 
+- **Understand** the various definitions of "legacy code" in the developer world
+- **Describe** some ways to make working with "legacy code" easier
 
 ## What is legacy code?
 
