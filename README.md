@@ -1,3 +1,5 @@
+<!--Actually 10:06 to 10:17-->
+
 # Legacy Code Intro
 
 ## Objectives
