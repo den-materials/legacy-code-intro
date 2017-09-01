@@ -1,5 +1,7 @@
 <!--Actually 10:06 to 10:17-->
 
+<!--WDI4 11:30 to 11:40 -->
+
 # Legacy Code Intro
 
 ## Objectives
@@ -33,7 +35,7 @@ In a few minutes, we'll look at someone else's code.  Namely, you will look at c
 3. Rely on Your Peers
   - Is that issue you're looking at actually an issue?  Or is it just different from what you're used to?  Second opinions are incredibly valuable when you walk into code you've never seen before.
 4. Stick to Convention
-  - Don't try to overhaul the directory structure, but as you proceed, stick to best practices whenever possible in terms of organization, OOP practices, and scalability.  That means you may want to check out our recommended style guides for [Angular](https://github.com/den-wdi-2/angular-style-guide), [JS](https://github.com/airbnb/javascript/tree/es5-deprecated/es5), and [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.xml).
+  - Don't try to overhaul the directory structure, but as you proceed, stick to best practices whenever possible in terms of organization, OOP practices, and scalability.  That means you may want to check out our recommended style guides for [Angular](https://github.com/johnpapa/angular-styleguide), [JS](https://github.com/airbnb/javascript), and [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.xml).
 5. When in Doubt, Test Everything
   -Open Dev Tools **immediately**, and devise a way to verify every new line of code you write.  Ideally, this would mean a couple software tests, but at the least, show something in Dev Tools that proves your style or functionality has changed in the way you wanted it to.
 
