@@ -24,7 +24,7 @@ Excellent question!  There are more opinions on the definition than there are le
 
 ## How do we tackle legacy code?
 
-In a few minutes, we'll look at someone else's code.  Namely, you will look at code written by the instructor currently talking to and his collaborator.  Try to keep the following pointers in mind as you work through this code:
+In a few minutes, we'll look at someone else's code.  Namely, you will look at code written by the instructor currently talking and his collaborator.  Try to keep the following pointers in mind as you work through this code:
 
 1. Start Small
   - Target what you think you can accomplish, small bugs or errors in the console. Then graduate to bigger things as you understand more of the codebase.
