@@ -18,7 +18,7 @@ Excellent question!  There are more opinions on the definition than there are le
   -[Unknown, possibly Pragmatic Programmer](http://stackoverflow.com/questions/4174867/what-is-the-definition-of-legacy-code) 
 - **Legacy code** is code that gets inherited by a team or a programmer from somewhere else.
   -[Top Answer on Stackoverflow (Shaggy Frog)](http://stackoverflow.com/questions/4174867/what-is-the-definition-of-legacy-code)
-- **Legacy code** is source code that relates to a no-longer supported[citation needed] or manufactured operating system or other computer technology. 
+- **Legacy code** is source code that relates to a no-longer supported or manufactured operating system or other computer technology. 
   -[Wikipedia](https://en.wikipedia.org/wiki/Legacy_code)
 - **Legacy code** is code without tests.
   -[Michael Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
